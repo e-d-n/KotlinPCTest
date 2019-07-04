@@ -11,4 +11,3 @@ The **KotlinPUB Series** has the tutorials listed below<br/>
  5. Code the DBHelper Class that Creates the DB the Tables and manages CRUD functions<br/>
  6. Build ViewPCActivity the ParentChildAdapter and the necessary XML files<br/>
 
- To contact us about this code our **WebSite is at** [LINK](https://androidstackoverflow.com/)<br/>
